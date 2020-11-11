@@ -1970,7 +1970,7 @@
     "@graphql-typed-document-node/core" "^3.1.0"
     wonka "^4.0.14"
 
-"@urql/exchange-graphcache@^3.0.2":
+"@urql/exchange-graphcache@^3.1.11":
   version "3.1.11"
   resolved "https://registry.yarnpkg.com/@urql/exchange-graphcache/-/exchange-graphcache-3.1.11.tgz#4182e1b532f689b3523a94c18e2028f8974feb3f"
   integrity sha512-p0Pd1MLMnY9y7K4DQOvP4rnTVcA82/KWS82WtGcmFBtpbmMqv3gx/uPeZcvnoERGV2/Lf1U8JhoNQA6zi1o/+w==
