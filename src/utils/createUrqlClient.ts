@@ -45,7 +45,10 @@ const cursorPagination = (): Resolver => {
       results.push(...data);
     });
 
-    return results;
+    return {
+      hasMore: true, // true or false
+      posts: results,
+    };
   };
 };
 
